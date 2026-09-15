@@ -2,37 +2,35 @@
 *(You can call me Aru)*
 
 📍 **From:** Kazakhstan  
-🎓 **Data Science student** at **CUHK–Shenzhen**  
+🎓 **Data Science and Finance student** at **CUHK–Shenzhen**  
 🎂 **Age:** 19  
 
 ---
 
 ## 👩‍💻 About Me
-I am a Data Science student with a strong interest in combining analytical thinking with creativity.  
-I enjoy exploring how data, technology, and real-world problems intersect, both academically and through personal projects.
+Exploring AI integration, data science in the financial field, and not only. 
 
 ---
 
 ## 🌱 Current Focus
-- Building a strong foundation in **Data Science & Python**
-- Improving problem-solving and algorithmic thinking
-- Exploring practical, resume-worthy projects
+- smart systems for hedge funds and family offices
+- innovative approaches of AI integration
+- just seeing where I would want to deep dive 
 
 ---
 
 ## ✨ Interests
-- 📚 Reading  
-- ✈️ Traveling  
-- 🎨 Creating (ideas, projects, and things from scratch)
+- 📚 Reading, lots and lots of books
+- ✈️ Traveling , time to time
+- 🎨 Blogging, sometimes post videos
 
 ---
 
 ## 📈 Goals
-- Develop impactful data-driven projects  
-- Grow into a well-rounded data professional  
-- Continuously learn and iterate
+- become someone my family will be proud of
+- reach the flow states financially, morally, physically and academically 
 
 ---
 
 ## 🤝 Let's Connect
-Open to any new ideas and collaborations. 
+Always open to new things 
